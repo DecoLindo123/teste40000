@@ -1,0 +1,27 @@
+a
+{
+    width: 200px;
+    bottom: 20px;
+}
+#fundo
+{
+    background-image: url("fundo-gradiente-de-cor-liquida-em-tons-de-azul-ilustracao-vetorial_647322-252.avif");
+    background-size: cover;
+}
+#deteccao
+{
+    width: 100%;
+}
+#titulo
+{
+    width: 100%;
+}
+#voltar
+{
+    float:right;
+}
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px burlywood;
+}
